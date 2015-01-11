@@ -1,0 +1,5 @@
+"git config --list" To check your settings, you can use the list command to list all the settings Git can find at that point.
+
+"git help <verb>" Provides help when you are using git
+
+"git init" will initialis a git repository
