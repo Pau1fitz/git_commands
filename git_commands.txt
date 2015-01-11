@@ -1,7 +1,11 @@
 "git config --list" To check your settings, you can use the list command to list all the settings Git can find at that point.
 
-"git help <verb>" Provides help when you are using git
+"git help <verb>" Provides help when you are using git.
 
-"git init" will initialis a git repository
+"git init" will initialise a git repository.
 
 "git status" tool you use to determine which files are in which state. 
+
+"git add" allows you to begin tracking a new file. 
+
+"git log" viewing the commit history.
