@@ -3,3 +3,5 @@
 "git help <verb>" Provides help when you are using git
 
 "git init" will initialis a git repository
+
+"git status" tool you use to determine which files are in which state. 
